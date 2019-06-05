@@ -1,3 +1,4 @@
 hello git
 add gitmessage
 add test
+add notepad
